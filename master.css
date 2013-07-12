@@ -108,8 +108,7 @@ a:visited {
 }
 
 #content p leftR{
-  margin-left: 8em;
-  padding:8em;
+  text-indent:2em;
 }
 
 span.date {
