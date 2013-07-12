@@ -105,6 +105,8 @@ a:visited {
 
 #content p {
   line-height: 140%;
+  margin: 20em auto 0;
+  padding: 0;
 }
 
 span.date {
