@@ -107,6 +107,10 @@ a:visited {
   line-height: 140%;
 }
 
+#content p leftR{
+  margin-left: 2em;
+}
+
 span.date {
   background: #484;
   display: block;
